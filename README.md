@@ -127,8 +127,10 @@ This project demonstrates my ability to:
 
 ---
 
-👨‍💻**Developed by:** [Ashley Sanchez]  
-📧**Email:** ashleymsanchez05@gmail.com
-💼 **GitHub:** [@ashleymichelle5](https://github.com/ashleymichelle5)
-⚙️**Main Technology:** WordPress + Themify Builder  
-📅**Year:** [2025]
+👨‍💻 **Developed by:** Ashley Sanchez  
+📧 **Email:** ashleymsanchez05@gmail.com  
+💼 **GitHub:** [@ashleymichelle5](https://github.com/ashleymichelle5)  
+⚙️ **Main Technology:** WordPress + Themify Builder  
+📅 **Year:** 2025
+
+---
