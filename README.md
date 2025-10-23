@@ -96,13 +96,13 @@ Each page features specific widgets designed to enhance user experience:
 ![contact](./images/contacto.png)
 ![Footer](./images/footer.png)
 
-### Desktop View
+### 🖥️ Desktop View
 - Homepage with hero banner
 - Products page with filters
 - Product detail page
 
 
-### Mobile View
+### 📲 Mobile View
 
 ![Mobile_view](./images/mobile.png)
 
@@ -113,7 +113,7 @@ Each page features specific widgets designed to enhance user experience:
 
 ## 🔗 Link
 
-🌐 ![Live Site Link](https://www.carnicosdanisan.com/)
+🌐 [Live Site Link](https://www.carnicosdanisan.com/)
 
 ## 📝 Development Notes
 
