@@ -8,6 +8,10 @@ Professional website developed for a butcher company, focused on showcasing high
 
 Create a professional digital presence that allows customers to explore the complete catalog of meat products, learn about the company, and establish direct communication through contact forms.
 
+## 🔗 Link
+
+🌐 [Live Site Link](https://www.carnicosdanisan.com/)
+
 ## 🛠️ Tech Stack
 
 - **CMS:** WordPress 6.x
@@ -115,10 +119,6 @@ Each page features specific widgets designed to enhance user experience:
 - Contact form
 
 ---
-
-## 🔗 Link
-
-🌐 [Live Site Link](https://www.carnicosdanisan.com/)
 
 ## 📝 Development Notes
 
