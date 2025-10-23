@@ -70,6 +70,8 @@ Create a professional digital presence that allows customers to explore the comp
 - Location information
 - Contact widgets
 
+---
+
 ## 💻 My Technical Contribution
 
 - **Complete site development** using WordPress and Themify Builder
@@ -96,6 +98,8 @@ Each page features specific widgets designed to enhance user experience:
 ![contact](./images/contacto.png)
 ![Footer](./images/footer.png)
 
+--- 
+
 ### 🖥️ Desktop View
 - Homepage with hero banner
 - Products page with filters
@@ -110,6 +114,7 @@ Each page features specific widgets designed to enhance user experience:
 - Mobile-optimized catalog
 - Contact form
 
+---
 
 ## 🔗 Link
 
